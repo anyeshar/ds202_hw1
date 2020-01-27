@@ -1,0 +1,29 @@
+---
+title: "hw1.Rmd"
+author: "Anyesha Ray"
+date: "January 15, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+I think a **biostatistics** job is very related to *data science*. Biostatistics is the application of statistical methods to a wide range of topics in biology. Today we integrate data science into the statistical aspects. In a biostatistics job we need to create visuals and model data and therefore it falls into the wider umbrella of data science. 
+
+
+
+['BioStats_CDC_Link'](https://www.cdc.gov/hrqol/curriculum/biostatistics.htm)
+
+
+
+![Biostats word cloud](/Users/Anyesha/Documents/ds202_hw1/biostatsimage.png) 
+
+
+```{r homework 1.4}
+print(version)
+
+```
+
