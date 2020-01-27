@@ -1,0 +1,18 @@
+---
+title: "Partner File"
+author: "McKenna Goffinet"
+date: "1/27/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+McKenna Goffinet
+
+GitHub un: mgoffinet
+
+most recent commit id: fedd6744ddaa3461bd4a500f61238db829e1c949
+
+couldn't knit the hw1 because it couldn't find the image file
